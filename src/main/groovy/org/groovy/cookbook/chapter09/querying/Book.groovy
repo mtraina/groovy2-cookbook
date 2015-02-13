@@ -1,4 +1,4 @@
-package org.groovy.cookbook.chapter09.queryingmethodsproperties
+package org.groovy.cookbook.chapter09.querying
 
 class Book {
     String title

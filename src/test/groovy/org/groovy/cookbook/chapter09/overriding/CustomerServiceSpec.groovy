@@ -1,4 +1,4 @@
-package org.groovy.cookbook.chapter09.overridingmethodsdinamically
+package org.groovy.cookbook.chapter09.overriding
 
 import spock.lang.Specification
 
